@@ -3,6 +3,7 @@
 		"artista": "Depeche Mode",
 		"album": "Speak & Spell",
 		"lanzamiento": 1981,
+		"cover": "http://lyrics.wikia.com/wiki/File:Depeche_Mode_-_Speak_%26_Spell.jpg",
 		"spotify": "spotify:album:0Zp2eVzR9FW6lKX05lRpcu",
 		"youtube": "https://youtu.be/_6FBfAQ-NDE"
 	},
@@ -10,6 +11,7 @@
 		"artista": "Depeche Mode",
 		"album": "A broken frame",
 		"lanzamiento": 1982,
+		"cover": "https://img.discogs.com/OfkzFxQ-6KSYPbMDjDT7fS0lC1o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-60662-1413145899-3784.jpeg.jpg",
 		"spotify": "spotify:album:570tDDsJUBimO3v70LJWFw",
 		"youtube": "https://youtu.be/UYmWH58SrEY"
 	},
@@ -17,6 +19,7 @@
 		"artista": "Depeche Mode",
 		"album": "Construction Time Again",
 		"lanzamiento": 1983,
+		"cover": "http://www.depmod.com/images/a0334_fs.jpg",
 		"spotify": "spotify:album:32QIAykZFP3GI8Q5QqoNCD",
 		"youtube": "https://youtu.be/XQhJkoZJHF0"
 	},
@@ -24,6 +27,7 @@
 		"artista": "Depeche Mode",
 		"album": "Some Great Reward",
 		"lanzamiento": 1984,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/2/2a/Depeche_Mode_-_Some_Great_Reward.png",
 		"spotify": "spotify:album:5wfikaEZXnQTXWBZ5osw9A",
 		"youtube": "https://youtu.be/OkIvGWPUUwk"
 
@@ -32,6 +36,7 @@
 		"artista": "Depeche Mode",
 		"album": "Black celebration",
 		"lanzamiento": 1986,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Depeche_Mode_-_Black_Celebration.png/220px-Depeche_Mode_-_Black_Celebration.png",
 		"spotify": "spotify:album:7eCwILaymP6xMJVEOOtVcu",
 		"youtube": "https://youtu.be/qU8UfYdKHvs"
 	},
@@ -39,6 +44,7 @@
 		"artista": "Depeche Mode",
 		"album": "Music for the masses",
 		"lanzamiento": 1987,
+		"cover": "http://www.depmod.com/images/a0792_fs.jpg",
 		"spotify": "spotify:album:06we4RiGhODMsbAPWmogy2",
 		"youtube": "https://youtu.be/MR_rqDxDInI"
 	},
@@ -46,6 +52,7 @@
 		"artista": "Depeche Mode",
 		"album": "Violator",
 		"lanzamiento": 1990,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Depeche_Mode_-_Violator.png/220px-Depeche_Mode_-_Violator.png",
 		"spotify": "spotify:album:0Tg76MY2wNK4j37iCb6qyH",
 		"youtube": "https://youtu.be/u1xrNaTO1bI"
 	},
@@ -53,6 +60,7 @@
 		"artista": "Depeche Mode",
 		"album": "Songs of faith and devotion",
 		"lanzamiento": 1993,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Depeche_Mode_-_Songs_of_Faith_and_Devotion.png/220px-Depeche_Mode_-_Songs_of_Faith_and_Devotion.png",
 		"spotify": "spotify:album:6x7S6u9Cx2S0JD48nPsavE",
 		"youtube": "https://youtu.be/Zss48c5zC4A"
 	},
@@ -60,6 +68,7 @@
 		"artista": "Depeche Mode",
 		"album": "ULTRA",
 		"lanzamiento": 1997,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Depeche_Mode_-_Ultra.png/220px-Depeche_Mode_-_Ultra.png",
 		"spotify": "spotify:album:0OWIVcNE4aItrlRvMUVueO",
 		"youtube": "https://youtu.be/V7GCrTFCXYo"
 	},
@@ -67,6 +76,7 @@
 		"artista": "Depeche Mode",
 		"album": "Exciter",
 		"lanzamiento": 2001,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Depeche_Mode_-_Exciter.png/220px-Depeche_Mode_-_Exciter.png",
 		"spotify": "spotify:album:3mHVSPCgGuVlK3pDqbtso9",
 		"youtube": "https://youtu.be/OL8Wqe-QWM8"
 	},
@@ -74,6 +84,7 @@
 		"artista": "Depeche Mode",
 		"album": "Playing the angel",
 		"lanzamiento": 2005,
+		"cover": "https://upload.wikimedia.org/wikipedia/en/6/65/Depeche_Mode_-_Playing_the_Angel.png",
 		"spotify": "spotify:album:57o8ROknLhGAxhiLKTOwSt",
 		"youtube": "https://youtu.be/8yn3ViE6mhY"
 	},
@@ -81,6 +92,7 @@
 		"artista": "Depeche Mode",
 		"album": "Sounds of the Universe",
 		"lanzamiento": 2009,
+		"cover": "https://images-na.ssl-images-amazon.com/images/I/6189dqFRMGL._SY355_.jpg",
 		"spotify": "spotify:album:2Bo9dmgi22zpLiswxilkoZ",
 		"youtube": "https://youtu.be/UBzViBgFwBA"
 	},
@@ -88,6 +100,7 @@
 		"artista": "Depeche Mode",
 		"album": "Delta Machine",
 		"lanzamiento": 2013,
+		"cover": "https://images-na.ssl-images-amazon.com/images/I/81GTzs7bi3L._SX355_.jpg",
 		"spotify": "spotify:album:1kpZUS7tLWK0hMWNCKP9La",
 		"youtube": "https://youtu.be/bt-28iNQnwY"
 	},
@@ -95,6 +108,7 @@
 		"artista": "Depeche Mode",
 		"album": "Spirit",
 		"lanzamiento": 2017,
+		"cover": "https://media.pitchfork.com/photos/5929c1ff5e6ef9596932379e/1:1/w_320/5b34d9f4.jpg",
 		"spotify": "spotify:album:4WkYJeMlLaNN1x5klAgeJu",
 		"youtube": "https://youtu.be/H8t5M9_Tvzk"
 	}
